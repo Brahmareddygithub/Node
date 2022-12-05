@@ -31,10 +31,10 @@ The project is preconfigured with express js. The simplest way to start this ser
 
 ### Project Information
 
-The project have mainly four services and listed below
+The project have mainly three services and listed below
 
-##### Signup service - To used create a user in database.
-##### Login service - To use verify the user in database and login.
-##### Data sevice - To use send the user data.
+##### [Signup service](http://localhost:3030/signup) - To used create a user in database.
+##### [Login service](http://localhost:3030/login) - To use verify the user in database and login.
+##### [Data sevice](http://localhost:3030/data) - To use send the user data.
 
 
